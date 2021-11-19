@@ -1,0 +1,14 @@
+C:\Users\brandon.gunthner\Desktop\ProgProj\Hotel\bin\Debug\netcoreapp3.1\Hotel.exe
+C:\Users\brandon.gunthner\Desktop\ProgProj\Hotel\bin\Debug\netcoreapp3.1\Hotel.deps.json
+C:\Users\brandon.gunthner\Desktop\ProgProj\Hotel\bin\Debug\netcoreapp3.1\Hotel.runtimeconfig.json
+C:\Users\brandon.gunthner\Desktop\ProgProj\Hotel\bin\Debug\netcoreapp3.1\Hotel.runtimeconfig.dev.json
+C:\Users\brandon.gunthner\Desktop\ProgProj\Hotel\bin\Debug\netcoreapp3.1\Hotel.dll
+C:\Users\brandon.gunthner\Desktop\ProgProj\Hotel\bin\Debug\netcoreapp3.1\Hotel.pdb
+C:\Users\brandon.gunthner\Desktop\ProgProj\Hotel\obj\Debug\netcoreapp3.1\Hotel.csproj.AssemblyReference.cache
+C:\Users\brandon.gunthner\Desktop\ProgProj\Hotel\obj\Debug\netcoreapp3.1\Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brandon.gunthner\Desktop\ProgProj\Hotel\obj\Debug\netcoreapp3.1\Hotel.AssemblyInfoInputs.cache
+C:\Users\brandon.gunthner\Desktop\ProgProj\Hotel\obj\Debug\netcoreapp3.1\Hotel.AssemblyInfo.cs
+C:\Users\brandon.gunthner\Desktop\ProgProj\Hotel\obj\Debug\netcoreapp3.1\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\brandon.gunthner\Desktop\ProgProj\Hotel\obj\Debug\netcoreapp3.1\Hotel.dll
+C:\Users\brandon.gunthner\Desktop\ProgProj\Hotel\obj\Debug\netcoreapp3.1\Hotel.pdb
+C:\Users\brandon.gunthner\Desktop\ProgProj\Hotel\obj\Debug\netcoreapp3.1\Hotel.genruntimeconfig.cache
